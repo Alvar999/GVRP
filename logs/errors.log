@@ -1,0 +1,116 @@
+[08/07/23 18:40:21] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:40:22] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:40:39] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:40:45] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:40:50] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:41:13] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:41:29] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:41:32] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:41:58] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:41:58] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:43:02] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:43:03] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:45:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:45:18] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:45:45] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:45:47] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:45:48] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:46:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:46:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:46:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:46:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:46:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:48:24] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:48:24] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:48:24] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:48:24] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:48:24] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:59:30] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:59:42] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 18:59:58] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 19:00:04] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:22:29] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:24:00] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:25:54] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:26:16] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:40:05] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:40:23] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 20:42:00] [plugins/discord-connector] DCC_SendChannelMessage: could not prepare callback
+[08/07/23 21:07:54] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/07/23 21:09:05] [plugins/discord-connector] can't update guild member presence: user id "1126331565505515731" not cached
+[08/07/23 21:11:33] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/07/23 21:33:32] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/07/23 21:33:32] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/07/23 21:47:47] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/07/23 21:47:47] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/08/23 13:09:08] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 13:09:50] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 14:33:22] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 14:43:44] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/08/23 14:52:59] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 14:58:04] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 15:02:26] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 15:33:48] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:31:59] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:31:59] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/08/23 23:40:35] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:40:35] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/08/23 23:46:45] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:46:45] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/08/23 23:52:25] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:53:16] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:53:16] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/08/23 23:53:28] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:53:37] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/08/23 23:53:37] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/09/23 00:01:37] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:01:53] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:02:15] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:05:58] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:07:17] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:10:36] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:10:36] [plugins/discord-connector] DCC_AddGuildMemberRole: invalid guild id '0'
+[08/09/23 00:10:42] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:10:45] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:10:47] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:10:58] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:11:08] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:13:34] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:13:42] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 00:14:21] [plugins/discord-connector] DCC_HasGuildMemberRole: invalid guild id '0'
+[08/09/23 22:56:46] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/10/23 00:46:30] [plugins/discord-connector] can't update guild member presence: user id "885828361526579210" not cached
+[08/10/23 22:29:45] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream
+[08/14/23 13:29:14] [plugins/discord-connector] Can't read from Discord websocket gateway: The semaphore timeout period has expired (121)
+[08/14/23 13:29:14] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/14/23 13:29:14] [plugins/discord-connector] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[08/14/23 13:29:19] [plugins/discord-connector] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[08/14/23 13:29:29] [plugins/discord-connector] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[08/14/23 13:29:44] [plugins/discord-connector] Can't resolve Discord gateway URL 'gateway.discord.gg': No such host is known (11001)
+[08/15/23 10:24:21] [plugins/discord-connector] can't update guild member presence: user id "832861618832146433" not cached
+[08/15/23 13:51:47] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/15/23 16:17:04] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/15/23 17:22:39] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/16/23 10:47:17] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream
+[08/16/23 10:58:54] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[08/16/23 10:58:54] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/16/23 16:13:03] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1139860050739998770/messages': end of stream
+[08/16/23 23:19:17] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137740601887031326/messages': end of stream
+[08/17/23 00:18:44] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/17/23 00:18:46] [plugins/discord-connector] Discord terminated websocket connection; reason: CloudFlare WebSocket proxy restarting (1001)
+[08/17/23 00:18:46] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/17/23 22:03:54] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream
+[08/19/23 10:00:43] [plugins/discord-connector] can't update guild member presence: user id "743498510980087940" not cached
+[08/19/23 11:26:51] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/20/23 11:27:39] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream
+[08/20/23 21:04:10] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream
+[08/21/23 10:50:50] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/22/23 10:05:23] [plugins/discord-connector] Got a 429 from path '/api/v8/channels/1137740601887031326/messages' (bucket '1d3c67957bcdccc6709861c232df8529') this should not happen.
+[08/22/23 10:05:55] [plugins/discord-connector] Can't read from Discord websocket gateway: End of file (2)
+[08/22/23 10:05:55] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[08/22/23 17:43:16] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/23/23 22:07:43] [plugins/discord-connector] can't update guild member presence: user id "1052932244630687855" not cached
+[08/26/23 23:22:52] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1137798750622990532/messages': end of stream
+[08/27/23 13:13:12] [plugins/discord-connector] can't update guild member presence: user id "1002771771533053972" not cached
+[08/27/23 18:42:07] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream
+[08/27/23 18:51:35] [plugins/discord-connector] Error while retrieving HTTP POST response from '/api/v8/channels/1138076935642169384/messages': end of stream

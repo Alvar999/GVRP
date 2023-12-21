@@ -1,0 +1,20 @@
+AddSimpleModel(-1, 19379, -2001, "object.dff", "Loading.txd");
+AddSimpleModel(-1, 19379, -2002, "object.dff", "Login.txd");
+AddSimpleModel(-1, 19379, -2003, "object.dff", "MenuStart.txd");
+AddSimpleModel(-1, 19379, -2004, "object.dff", "Shop.txd");
+AddSimpleModel(-1, 19379, -2005, "object.dff", "Event.txd");
+AddSimpleModel(-1, 19379, -2006, "object.dff", "Update.txd");
+AddSimpleModel(-1, 19379, -2007, "object.dff", "Credits.txd");
+AddSimpleModel(-1, 1923, -2714, "object.dff", "logo.txd");
+AddSimpleModel(-1, 1923, -2200, "object.dff", "Safezone.txd");
+AddSimpleModel(-1, 19379, -2010, "object.dff", "Vehicle.txd");
+AddSimpleModel(-1, 19379, -2011, "object.dff", "ShowLogo.txd");
+AddSimpleModel(-1,19379, -2012, "object.dff", "hunger.txd");
+AddSimpleModel(-1, 11745, -2013, "object.dff", "spawnpoints.txd");
+
+AddCharModel(155, 20001, "fatman.dff", "fatman.txd");
+AddCharModel(155, 20002, "bmycg.dff", "bmycg.txd");
+AddCharModel(300, 20003, "Batman.dff", "Batman.txd");
+AddCharModel(155, 20004, "Mages.dff", "Mages.txd");
+AddCharModel(155, 20005, "kokona.dff", "kokona.txd");
+AddCharModel(155, 20006, "Police.dff", "Police.txd");
